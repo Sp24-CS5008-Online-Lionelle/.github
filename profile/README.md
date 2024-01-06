@@ -40,7 +40,7 @@ Please plan ahead! It can be hard to estimate when you might get stuck, so make 
 
 ## Assessment
 
-Course Assignments will be broken down into categories that can be found on the Assignments page of the course canvas shell. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. In general if we are dropping the lowest grades in a category, we will NOT drop the last assignment of the category (as it is essentially the culmination of all the other assignments).
+Course Assignments will be broken down into categories that can be found on the Assignments page of the course canvas shell. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. In general if we are dropping the lowest grades in a category, we will NOT drop the last assignment of the category (as it is essentially the culmination of all the other assignments). As this is a common question, there currently is no plan to drop any Homework assignments, as there are only 5 of them this semester.  
 
 In general assignments are either formative or summative. Formative assignments document your learning process, and there are often ways they can be redone showing that you learned the material. Summative assignments are your opportunity to demonstrate what you know, and are show your ability level on the topic. Summative assignments are often time restricted and have limited attempts.
 
@@ -75,6 +75,8 @@ For homework assignments, you will be able to resubmit usually without meeting a
 
 Needless to say, unless specified otherwise if the available day has passed for any assignment with open resubmissions, that means resubmission windows are also not available! 
 
+### Extra Credit?
+This course does not give extra credit, as we find the ability to resubmit until you get it right is a better way to learn.  If you are borderline as a student, it is in your control to make sure to resubmit past assignments until you earn full marks. 
 
 ### Grading Scheme
 All grades in this course, while on a point scale, translate into a final percentage scale once all categories are calculated. This is the following scheme we use.
@@ -83,16 +85,17 @@ All grades in this course, while on a point scale, translate into a final percen
 | :-- | :--: | :--: |
 | A |  100 | >=90  |
 | B+ | 89.9 | >=87 |
-| B | 86.9 | >=80 |
-| B- | 79.9 | >= 78 |
-| C+ | 77.9 | >= 75 |
-| C | 74.9 | >= 70 |
-| C- | 69.9 | >= 68 |
-| F | 67.9 | 0 |
+| B | 86.9 | >=83 |
+| B- | 82.9 | >= 80 |
+| C+ | 79.9 | >= 77 |
+| C | 76.9 | >= 73 |
+| C- | 72.9 | >= 70 |
+| F | 69.9 | 0 |
 
 The above grading scheme is slightly modified from your traditional +/- scheme as follows:
 * A- intentionally removed, as A+ doesn't give a GPA boost, to balance out an A-
-* Grading category A, B, C all match up with 90, 80, 70 respectively, minus grading is high points of next stage to give benefit to the "borderline almost there" students. 
+* plus/minus grading is used for other grading categories, to better reflect borderline grades. Students are rarely in a borderline situation.
+
 
 Grade boundaries are subject to change at the discretion of the instructor, but they will not become more difficult to achieve a grade.  
 
