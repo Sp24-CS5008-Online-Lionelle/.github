@@ -92,9 +92,7 @@ All grades in this course, while on a point scale, translate into a final percen
 | C- | 72.9 | >= 70 |
 | F | 69.9 | 0 |
 
-The above grading scheme is slightly modified from your traditional +/- scheme as follows:
-* A- intentionally removed, as A+ doesn't give a GPA boost, to balance out an A-
-* plus/minus grading is used for other grading categories, to better reflect borderline grades. Students are rarely in a borderline situation.
+
 
 
 Grade boundaries are subject to change at the discretion of the instructor, but they will not become more difficult to achieve a grade.  
